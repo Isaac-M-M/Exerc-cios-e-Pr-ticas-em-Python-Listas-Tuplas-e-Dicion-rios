@@ -1,1 +1,1 @@
-# Exerc-cios-e-Pr-ticas-em-Python-Listas-Tuplas-e-Dicion-rios
+# Exercicios-e-Praticas-em-Python-Listas-Tuplas-e-Dicionarios
